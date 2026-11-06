@@ -1,0 +1,11 @@
+# секреты и личные данные
+.env
+*.env
+iiko/data/recipients.txt
+# служебное
+.DS_Store
+__pycache__/
+*.pyc
+iiko/logs/
+iiko/out/
+uploads/
